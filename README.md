@@ -12,4 +12,10 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 * Software: Python 3.8.3, Visual Studio Code 1.47.3
 
 ## Summary
+The analysis of the election show that:
+* There was a total of 369,711.00 votes in the election
+* The candidates were:
+  * Casper Stockham
+  * Diana DeGette
+  * Raymon Anthony Doane
 

@@ -39,7 +39,7 @@ The Colorado Board of Elections has requested additional data to complete their 
  ![image](https://user-images.githubusercontent.com/67936161/89132957-c1ea5c00-d4cc-11ea-87fc-9adeca2d2ef8.png)
 
 * The data shows that Denver county had the largest number of votes
-*The results below show the number of votes each candidate received in the election and the perecentage of the total votes they received
+* The results below show the number of votes each candidate received in the election and the perecentage of the total votes they received
 
 ![image](https://user-images.githubusercontent.com/67936161/89133052-88feb700-d4cd-11ea-9ea1-af441ddda4db.png)
 
